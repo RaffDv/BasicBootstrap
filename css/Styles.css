@@ -184,6 +184,7 @@
 }
 #featured-images img {
   height: 444px;
+  width: 300px;
 }
 
 #featured-images .col-md-4 {
